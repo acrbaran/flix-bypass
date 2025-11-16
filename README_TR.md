@@ -38,6 +38,18 @@ git clone https://github.com/kullaniciadi/flix-bypass.git
 2. **Geliştirici modu**'nu etkinleştirin
 3. Tüm klasörü uzantılar sayfasına sürükleyip bırakın
 
+## 📸 Ekran Görüntüleri
+
+<div align="center">
+
+### Uzantı Popup - Pasif Durum
+![Flix Bypass Pasif](ss1.png)
+
+### Uzantı Popup - Aktif Durum
+![Flix Bypass Aktif](ss2.png)
+
+</div>
+
 ## 🎮 Kullanım
 
 1. **Netflix'e Gidin**

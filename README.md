@@ -38,6 +38,18 @@ git clone https://github.com/yourusername/flix-bypass.git
 2. Enable **Developer mode**
 3. Drag and drop the entire folder onto the extensions page
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Extension Popup - Inactive State
+![Flix Bypass Inactive](ss1.png)
+
+### Extension Popup - Active State
+![Flix Bypass Active](ss2.png)
+
+</div>
+
 ## 🎮 Usage
 
 1. **Navigate to Netflix**
