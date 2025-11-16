@@ -19,7 +19,7 @@ Belirli çerezleri geçici olarak değiştirerek Netflix kısıtlamalarını aş
 
 1. Bu depoyu klonlayın veya indirin:
 ```bash
-git clone https://github.com/kullaniciadi/flix-bypass.git
+git clone https://github.com/acrbaran/flix-bypass.git
 ```
 
 2. Chrome'u açın ve `chrome://extensions/` adresine gidin

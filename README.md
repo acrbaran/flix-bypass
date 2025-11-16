@@ -19,7 +19,7 @@ A Chrome extension that bypasses certain Netflix restrictions by temporarily mod
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/yourusername/flix-bypass.git
+git clone https://github.com/acrbaran/flix-bypass.git
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
